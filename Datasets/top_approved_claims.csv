@@ -1,0 +1,72 @@
+member_first_name,member_last_name,claim_status,provider_first_name,provider_last_name,network,practice_name,billed_amount,approuved_amount,net_payment
+Marcia,Farrell,history,Harper,Ochoa,In Network , WELLCARE HOSPITAL ,4785,2991,3003
+Plato,Stuart,history,Cade,Conrad,In Network , ADVENT HEATH ,4726,2983,2989
+Eve,Spence,paid,Asher,Rodgers,In Network , VIERRA HOSPITAL ,4921,2982,2995
+Piper,Weber,deny,Norman,Floyd, Out Network, MEMORIAL HOSPITAL ,4812,2979,2982
+Jordan,Hill,paid,Nissim,Ellis, Out Network,ABC HOSPITAL ,4330,2977,2988
+Irene,Rutledge,in progress,Owen,Montgomery, Out Network, MEMORIAL HOSPITAL ,4423,2972,2981
+Lane,Weiss,in progress,Preston,Dejesus,In Network , ADVENT HEATH ,4991,2972,2989
+Jolene,Bridges,pend,Jerome,Henry,In Network , ADVENT HEATH ,4108,2942,2952
+Leslie,Mason,in progress,Cain,Buckley, Out Network, ADVENT HEATH ,4134,2941,2947
+Josephine,Rhodes,in progress,Jordan,Bernard,In Network , ADVENT HEATH ,4458,2934,2948
+Jeremy,Powell,deny,Rahim,Peters, Out Network, ADVENT HEATH ,4605,2928,2935
+Teegan,Wolfe,history,Dalton,Bauer,In Network , CONCORDIA HEALTH ,4077,2920,2930
+Mariam,Whitaker,history,Holmes,Hanson, Out Network, SMILE DENTAL ,4087,2919,2930
+Tashya,Bowen,paid,Kirk,Gross,In Network , SMILE DENTAL ,4234,2919,2926
+Kylee,Greer,history,Ross,Small, Out Network, SMILE DENTAL ,4183,2894,2907
+Evan,Simon,history,Samson,Stevens,In Network , VIERRA HOSPITAL ,4207,2890,2903
+Dana,Langley,pend,Price,Daniel, Out Network, SMILE DENTAL ,4000,2880,2899
+Lyle,William,deny,Judah,Hendricks,In Network , MEMORIAL HOSPITAL ,4931,2862,2874
+Timon,Richard,in progress,Amal,Richard, Out Network, SMILE DENTAL ,4234,2844,2864
+Mia,Mcgee,paid,Allistair,Britt, Out Network, ADVENT HEATH ,4816,2843,2853
+Briar,Hubbard,history,Holmes,Stein, Out Network, MEMORIAL HOSPITAL ,4023,2838,2849
+Adria,Macias,in progress,Nicholas,Moss, Out Network, MEMORIAL HOSPITAL ,4113,2828,2837
+Leah,Carrillo,pend,Aquila,Frank,In Network ,ABC HOSPITAL ,4213,2826,2835
+Zeus,Matthews,paid,Victor,Dillard,In Network ,ABC HOSPITAL ,4765,2819,2836
+Dana,Guerrero,paid,Brandon,Nieves,In Network , SMILE DENTAL ,4404,2811,2824
+Rajah,Winters,in progress,Eaton,Whitaker, Out Network, VIERRA HOSPITAL ,4942,2808,2825
+Shana,Ferguson,in progress,Scott,Barber,In Network ,ABC HOSPITAL ,4352,2808,2812
+Inga,Knowles,pend,Levi,Knapp, Out Network, MEMORIAL HOSPITAL ,4770,2782,2793
+Paul,Hall,history,Nathan,Pickett,In Network , SMILE DENTAL ,4808,2768,2784
+Aphrodite,Dixon,deny,Nash,Vargas, Out Network,ABC HOSPITAL ,4182,2746,2755
+Hunter,Mcdowell,paid,Brenden,Burris, Out Network, CONCORDIA HEALTH ,4779,2743,2754
+Chester,Powers,history,Carl,Ballard,In Network , ADVENT HEATH ,4179,2725,2734
+Chase,Mueller,in progress,Aristotle,Mann, Out Network, ADVENT HEATH ,4319,2715,2725
+Keely,Pena,in progress,Raymond,Casey, Out Network, ADVENT HEATH ,4688,2696,2700
+Hamish,Hebert,history,Lionel,Russell,In Network , CONCORDIA HEALTH ,4536,2676,2690
+Vernon,Ware,history,Tate,Morton,In Network , WELLCARE HOSPITAL ,4033,2655,2664
+Christine,Morris,history,Abraham,Woodward,In Network , SMILE DENTAL ,4300,2642,2651
+Latifah,Goodman,pend,Kieran,Mayer, Out Network, VIERRA HOSPITAL ,4794,2620,2631
+Wynter,Mullen,deny,Ralph,Hudson,In Network , ADVENT HEATH ,4677,2583,2594
+Kadeem,Bush,in progress,Cadman,Delaney, Out Network, ADVENT HEATH ,4803,2542,2552
+Leroy,Sears,deny,Dean,Sykes,In Network , SMILE DENTAL ,4141,2524,2539
+Dacey,Finch,paid,Rogan,Conley,In Network , SMILE DENTAL ,4383,2522,2526
+Meghan,Schneider,in progress,Curran,Coleman, Out Network, WELLCARE HOSPITAL ,4300,2515,2528
+Porter,Battle,deny,Xavier,Small,In Network , SMILE DENTAL ,4655,2502,2509
+Britanni,Sloan,paid,Nathaniel,Jordan,In Network , ADVENT HEATH ,4705,2481,2483
+Linus,Garner,pend,Benedict,Mann,In Network , WELLCARE HOSPITAL ,4593,2478,2490
+Maris,Santiago,history,Baker,Mcbride, Out Network, WELLCARE HOSPITAL ,4847,2473,2488
+Melyssa,Ingram,pend,Lane,Forbes,In Network ,ABC HOSPITAL ,4358,2468,2475
+Rhiannon,Frye,history,Vaughan,Gaines, Out Network, WELLCARE HOSPITAL ,4515,2452,2464
+Adrienne,Cash,deny,Jamal,Talley, Out Network,ABC HOSPITAL ,4181,2448,2455
+Carl,Simmons,deny,Kenyon,Miller,In Network , MEMORIAL HOSPITAL ,4021,2433,2447
+Nelle,Howell,pend,Jared,Knox, Out Network,ABC HOSPITAL ,4068,2397,2403
+Davis,Perry,paid,Wallace,Warren, Out Network, WELLCARE HOSPITAL ,4731,2342,2353
+Shelby,Chandler,deny,Slade,Cleveland,In Network , WELLCARE HOSPITAL ,4769,2332,2337
+Carlos,Shaffer,deny,Flynn,Cunningham,In Network , WELLCARE HOSPITAL ,4039,2332,2343
+Knox,Boyd,deny,Kamal,Jefferson, Out Network, WELLCARE HOSPITAL ,4546,2318,2324
+Jaquelyn,Flynn,in progress,Richard,Merrill,In Network , ADVENT HEATH ,4057,2318,2320
+Rooney,Hoffman,in progress,Zeph,Hall, Out Network, MEMORIAL HOSPITAL ,4894,2302,2311
+Charlotte,Colon,pend,Lawrence,Bailey, Out Network, VIERRA HOSPITAL ,4874,2301,2316
+Ruby,Travis,paid,Asher,Ochoa, Out Network, WELLCARE HOSPITAL ,4040,2294,2308
+Candice,Skinner,paid,Nasim,Dale,In Network , CONCORDIA HEALTH ,4090,2293,2299
+Zephr,Jensen,pend,Palmer,Robertson, Out Network,ABC HOSPITAL ,4709,2280,2281
+Hannah,Barker,deny,Malachi,Poole, Out Network, MEMORIAL HOSPITAL ,4100,2276,2281
+Rhoda,Mckay,paid,Jason,Henderson, Out Network, MEMORIAL HOSPITAL ,4596,2276,2282
+Amal,Whitehead,in progress,Felix,Long,In Network , ADVENT HEATH ,4668,2264,2279
+Lila,Tran,pend,Ira,Bowman, Out Network, CONCORDIA HEALTH ,4095,2255,2273
+Maxwell,Rocha,in progress,Barry,Durham,In Network , SMILE DENTAL ,4187,2251,2264
+India,Harding,paid,Elliott,Blackwell,In Network , ADVENT HEATH ,4069,2238,2243
+Olivia,Mercer,deny,Bruno,Erickson, Out Network, VIERRA HOSPITAL ,4271,2220,2230
+Lee,Reese,pend,Graham,Watkins,In Network , WELLCARE HOSPITAL ,4839,2213,2216
+Daniel,Hunter,pend,Palmer,Bryan, Out Network, SMILE DENTAL ,4965,2207,2215

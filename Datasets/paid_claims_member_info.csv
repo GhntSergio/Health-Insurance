@@ -1,0 +1,20 @@
+member_first_name,member_last_name,member_dob,gender,claim_id,claim_status,type
+Abigail,Mosley,1987-08-30, Female ,951,paid,cl
+Britanni,Sloan,1980-10-25,Male ,961,paid,cl
+Candice,Skinner,1981-06-28,Male ,931,paid,cl
+Dacey,Finch,1976-05-03, Female ,946,paid,cl
+Dana,Guerrero,1974-02-26,Male ,901,paid,cl
+Davis,Perry,2003-11-02,Male ,981,paid,cl
+Debra,Stokes,1982-08-30,Male ,936,paid,cl
+Eve,Spence,1999-10-30, Not Answered,991,paid,cl
+Hunter,Mcdowell,1980-07-25, Female ,911,paid,cl
+India,Harding,1995-01-22, Not Answered,971,paid,cl
+Jordan,Hill,1994-08-28, Female ,921,paid,cl
+Kristen,Cantrell,2005-04-03,Male ,926,paid,cl
+Mia,Mcgee,1989-09-24,Male ,966,paid,cl
+Paula,Adkins,1995-04-12, Female ,986,paid,cl
+Rhoda,Mckay,1996-05-20,Male ,906,paid,cl
+Ria,Wells,2002-10-06,Male ,976,paid,cl
+Ruby,Travis,2004-06-08, Female ,956,paid,cl
+Tashya,Bowen,2010-07-25, Not Answered,941,paid,cl
+Zeus,Matthews,1994-11-26,Male ,916,paid,cl
