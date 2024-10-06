@@ -50,4 +50,4 @@ Nous avons construit une base de données relationnelle en utilisant PostgreSQL,
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/All-projets/blob/main/Health%Insurance/README.md). Voir le fichier [LICENSE.md](https://github.com/GhntSergio/All-projets/blob/main/Health%Insurance/README.md) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/Health-Insurance/blob/main/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/Health-Insurance/blob/main/LICENSE) pour plus de détails.
