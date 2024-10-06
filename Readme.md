@@ -37,7 +37,7 @@ Nous avons construit une base de données relationnelle en utilisant PostgreSQL,
 
 ### Distribution des Montants
 
-![Distribution des Montants Approuvés](images/distribution_approuved_amounts.png)
+![Distribution des Montants Approuvés]([images/distribution_approuved_amounts.png](https://github.com/GhntSergio/Health-Insurance/blob/main/img/Distributions%20des%20Montants.png))
 
 *Figure 1 : Distribution des Montants Facturés, Approuvés, et Paiements Nets*
 
